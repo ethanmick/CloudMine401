@@ -12,7 +12,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+
+    [[CMAPICredentials sharedInstance] setAppIdentifier:@"f3e411b500724a4c972403b7ab5f4b79" andApiKey:@"f820e2d1fe4242d2b724c1dc5f2cea35"];
+    
+//    [[UINavigationBar appearance] setBarTintColor:[UIColor redColor]];
+    
+    
     return YES;
 }
 							
