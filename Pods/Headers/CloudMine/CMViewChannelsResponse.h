@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Storage/CMViewChannelsResponse.h
+../../CloudMine/ios/ios/src/Storage/CMViewChannelsResponse.h

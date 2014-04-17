@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/CloudMine.h
+../../CloudMine/ios/ios/src/CloudMine.h

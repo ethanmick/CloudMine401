@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Web Services/CMPaymentService.h
+../../CloudMine/ios/ios/src/Web Services/CMPaymentService.h

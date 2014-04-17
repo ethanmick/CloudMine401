@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Storage/Response/CMFileUploadResponse.h
+../../CloudMine/ios/ios/src/Storage/Response/CMFileUploadResponse.h

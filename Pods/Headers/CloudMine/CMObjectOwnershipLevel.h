@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Storage/CMObjectOwnershipLevel.h
+../../CloudMine/ios/ios/src/Storage/CMObjectOwnershipLevel.h

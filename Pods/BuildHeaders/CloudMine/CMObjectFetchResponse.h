@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Storage/Response/CMObjectFetchResponse.h
+../../CloudMine/ios/ios/src/Storage/Response/CMObjectFetchResponse.h

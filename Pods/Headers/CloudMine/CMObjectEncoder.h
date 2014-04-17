@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Web Services/Encoding/CMObjectEncoder.h
+../../CloudMine/ios/ios/src/Web Services/Encoding/CMObjectEncoder.h

@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Persisted Objects/CMFile.h
+../../CloudMine/ios/ios/src/Persisted Objects/CMFile.h

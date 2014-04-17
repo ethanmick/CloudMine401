@@ -1901,8 +1901,6 @@ NSString * const JSONErrorKey = @"JSONErrorKey";
         url = [url URLByAppendingAndEncodingQueryParameter:@"p" andValue:query];
     }
     
-    NSLog(@"Final URL: %@", url);
-    
     return url;
 }
 

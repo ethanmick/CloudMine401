@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/UIImageView+CloudMine.h
+../../CloudMine/ios/ios/src/UIImageView+CloudMine.h

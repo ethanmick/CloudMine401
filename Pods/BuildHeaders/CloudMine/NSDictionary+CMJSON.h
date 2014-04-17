@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/Extensions/NSDictionary+CMJSON.h
+../../CloudMine/ios/ios/src/Extensions/NSDictionary+CMJSON.h

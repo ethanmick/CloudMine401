@@ -1,1 +1,1 @@
-../../../../iOS-SDK-Private/ios/ios/src/CMMimeType.h
+../../CloudMine/ios/ios/src/CMMimeType.h
